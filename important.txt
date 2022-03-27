@@ -1,0 +1,13 @@
+Dependencies:
+	ttf-hack,
+	ttf-ubuntu-font-family,
+	ttf-font-awesome, 
+	xorg-server, 
+	xorg-xinit,
+
+Other Utilities:
+	File Manager - PcManFM,
+	Graphics Card Drivers (proprietary) - nvidia,
+	App Laucher - dmenu,
+
+
